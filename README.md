@@ -126,8 +126,8 @@ ip a
 - `/etc/dhcp/dhcpd.conf`
 - `/etc/default/isc-dhcp-server`
 - `/etc/bind/named.conf.local`
-- `/etc/bind/db.monreseau.local`
-- `/etc/bind/db.192`
+- `/etc/bind/direct`
+- `/etc/bind/inverse`
 
 ---
 
